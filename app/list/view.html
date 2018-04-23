@@ -1,0 +1,67 @@
+
+<section class="list">
+	<div class="container address">
+		<ol class="breadcrumb">
+			<li><a href="#!/home">Home</a></li>
+			<li class="active">List</li>
+		</ol>
+	</div>
+	<div class="container index">
+		<ul>
+			<li><a href="#!/list/A">A</a></li>
+			<li><a href="#!/list/B">B</a></li>
+			<li><a href="#!/list/C">C</a></li>
+			<li><a href="#!/list/D">D</a></li>
+			<li><a href="#!/list/E">E</a></li>
+			<li><a href="#!/list/F">F</a></li>
+			<li><a href="#!/list/G">G</a></li>
+			<li><a href="#!/list/H">H</a></li>
+			<li><a href="#!/list/I">I</a></li>
+			<li><a href="#!/list/J">J</a></li>
+			<li><a href="#!/list/K">K</a></li>
+			<li><a href="#!/list/L">L</a></li>
+			<li><a href="#!/list/M">M</a></li>
+			<li><a href="#!/list/N">N</a></li>
+			<li><a href="#!/list/O">O</a></li>
+			<li><a href="#!/list/P">P</a></li>
+			<li><a href="#!/list/Q">Q</a></li>
+			<li><a href="#!/list/R">R</a></li>
+			<li><a href="#!/list/S">S</a></li>
+			<li><a href="#!/list/T">T</a></li>
+			<li><a href="#!/list/U">U</a></li>
+			<li><a href="#!/list/V">V</a></li>
+			<li><a href="#!/list/W">W</a></li>
+			<li><a href="#!/list/X">X</a></li>
+			<li><a href="#!/list/Y">Y</a></li>
+			<li><a href="#!/list/Z">Z</a></li>
+		</ul>
+	</div>
+	<div class="container result">
+		<table>
+			<thead>
+				<tr>
+					<th>No.</th>
+					<th>Movie Name</th>
+					<th>Year</th>
+					<th>type</th>
+					<th>original_title</th>
+					<th>Genre</th>
+					<th>Rating</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr ng-repeat="item in subjects">
+					<td>{{$index}}</td>
+					<td ><a href="{{'#!/movie_detial/' + item.id}}"><img width="46px" height="70px" ng-src="{{item.images.small}}" alt="" > <span>{{item.title}}</span></a></td>
+					<td>{{item.year}}</td>
+					<td>{{item.subtype}}</td>
+					<td >{{item.original_title}}</td>
+					<td >{{item.genres.toString()}}</td>
+					<td>{{item.rating.average}}</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+
+
+</section>

@@ -1,0 +1,352 @@
+{
+    "count": 5,
+    "start": 5,
+    "total": 37,
+    "subjects": [
+        {
+            "rating": {
+                "max": 10,
+                "average": 7.3,
+                "stars": "40",
+                "min": 0
+            },
+            "genres": [
+                "剧情",
+                "科幻",
+                "惊悚"
+            ],
+            "title": "湮灭",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1054454/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2274.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2274.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2274.jpg"
+                    },
+                    "name": "娜塔莉·波特曼",
+                    "id": "1054454"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1004588/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1424.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1424.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1424.jpg"
+                    },
+                    "name": "詹妮弗·杰森·李",
+                    "id": "1004588"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1328190/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pfFyUvfteUGwcel_avatar_uploaded1366276814.07.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pfFyUvfteUGwcel_avatar_uploaded1366276814.07.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/pfFyUvfteUGwcel_avatar_uploaded1366276814.07.jpg"
+                    },
+                    "name": "吉娜·罗德里格兹",
+                    "id": "1328190"
+                }
+            ],
+            "collect_count": 98662,
+            "original_title": "Annihilation",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1284570/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1433647152.45.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1433647152.45.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1433647152.45.jpg"
+                    },
+                    "name": "亚历克斯·嘉兰",
+                    "id": "1284570"
+                }
+            ],
+            "year": "2018",
+            "images": {
+                "small": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516914607.jpg",
+                "large": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516914607.jpg",
+                "medium": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516914607.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/26384741/",
+            "id": "26384741"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8,
+                "stars": "40",
+                "min": 0
+            },
+            "genres": [
+                "剧情",
+                "喜剧"
+            ],
+            "title": "起跑线",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1108861/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48861.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48861.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p48861.jpg"
+                    },
+                    "name": "伊尔凡·可汗",
+                    "id": "1108861"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1263714/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1477506649.77.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1477506649.77.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1477506649.77.jpg"
+                    },
+                    "name": "萨巴·卡玛尔",
+                    "id": "1263714"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1049993/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1521775712.45.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1521775712.45.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1521775712.45.jpg"
+                    },
+                    "name": "内哈·迪胡皮阿",
+                    "id": "1049993"
+                }
+            ],
+            "collect_count": 56521,
+            "original_title": "Hindi Medium",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1383681/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1510019957.97.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1510019957.97.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1510019957.97.jpg"
+                    },
+                    "name": "萨基特·乔杜里",
+                    "id": "1383681"
+                }
+            ],
+            "year": "2017",
+            "images": {
+                "small": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517518428.jpg",
+                "large": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517518428.jpg",
+                "medium": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517518428.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/26942631/",
+            "id": "26942631"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 4.4,
+                "stars": "25",
+                "min": 0
+            },
+            "genres": [
+                "动画",
+                "冒险",
+                "家庭"
+            ],
+            "title": "冰雪女王3：火与冰",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1059406/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20303.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20303.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p20303.jpg"
+                    },
+                    "name": "迪·布拉雷·贝克尔",
+                    "id": "1059406"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1390987/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+                    },
+                    "name": "洛瑞·加纳",
+                    "id": "1390987"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1390988/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+                    },
+                    "name": "Devin Bailey Griffin",
+                    "id": "1390988"
+                }
+            ],
+            "collect_count": 1022,
+            "original_title": "Снежная королева 3: Огонь и лед",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1362482/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+                        "large": "https://img3.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+                        "medium": "https://img1.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+                    },
+                    "name": "阿列克谢·特斯蒂斯林",
+                    "id": "1362482"
+                }
+            ],
+            "year": "2016",
+            "images": {
+                "small": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517033932.jpg",
+                "large": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517033932.jpg",
+                "medium": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517033932.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/26588783/",
+            "id": "26588783"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.5,
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "剧情",
+                "动作",
+                "犯罪"
+            ],
+            "title": "红海行动",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1274761/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1489386626.47.jpg"
+                    },
+                    "name": "张译",
+                    "id": "1274761"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1354442/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458138265.51.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458138265.51.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1458138265.51.jpg"
+                    },
+                    "name": "黄景瑜",
+                    "id": "1354442"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1272245/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49399.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49399.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p49399.jpg"
+                    },
+                    "name": "海清",
+                    "id": "1272245"
+                }
+            ],
+            "collect_count": 369133,
+            "original_title": "红海行动",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1275075/",
+                    "avatars": {
+                        "small": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372934445.18.jpg",
+                        "large": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372934445.18.jpg",
+                        "medium": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372934445.18.jpg"
+                    },
+                    "name": "林超贤",
+                    "id": "1275075"
+                }
+            ],
+            "year": "2018",
+            "images": {
+                "small": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514119443.jpg",
+                "large": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514119443.jpg",
+                "medium": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514119443.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/26861685/",
+            "id": "26861685"
+        },
+        {
+            "rating": {
+                "max": 10,
+                "average": 8.3,
+                "stars": "45",
+                "min": 0
+            },
+            "genres": [
+                "剧情",
+                "犯罪",
+                "悬疑"
+            ],
+            "title": "暴裂无声",
+            "casts": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1316200/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1449349437.71.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1449349437.71.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1449349437.71.jpg"
+                    },
+                    "name": "宋洋",
+                    "id": "1316200"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1274290/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27203.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27203.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27203.jpg"
+                    },
+                    "name": "姜武",
+                    "id": "1274290"
+                },
+                {
+                    "alt": "https://movie.douban.com/celebrity/1274820/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6464.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6464.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p6464.jpg"
+                    },
+                    "name": "袁文康",
+                    "id": "1274820"
+                }
+            ],
+            "collect_count": 78208,
+            "original_title": "暴裂无声",
+            "subtype": "movie",
+            "directors": [
+                {
+                    "alt": "https://movie.douban.com/celebrity/1341214/",
+                    "avatars": {
+                        "small": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513848601.01.jpg",
+                        "large": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513848601.01.jpg",
+                        "medium": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513848601.01.jpg"
+                    },
+                    "name": "忻钰坤",
+                    "id": "1341214"
+                }
+            ],
+            "year": "2017",
+            "images": {
+                "small": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517333671.jpg",
+                "large": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517333671.jpg",
+                "medium": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517333671.jpg"
+            },
+            "alt": "https://movie.douban.com/subject/26647117/",
+            "id": "26647117"
+        }
+    ],
+    "title": "正在上映的电影-北京"
+}

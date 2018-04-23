@@ -1,0 +1,122 @@
+{
+	"subjects": [
+		{
+			"title": "狂暴巨兽",
+			"images": {
+                "small": "http://img5.mtime.cn/pi/2018/04/13/175613.49381295_1000X1000.jpg",
+                "large": "http://img5.mtime.cn/pi/2017/12/09/101411.94214764_1000X1000.jpg"
+            },
+            "descript":"影片改编自1980年代街机游戏，某实验室高科技装置突然出了问题，让卫星掉落到美国圣地亚哥动物园，制造了猩猩、蜥蜴和狼三个大怪兽。怪兽开始袭击美国各地，道恩·强森扮演的前海军陆战队成员一人对战三大怪兽。"
+		},
+		{
+			"title": "犬之岛",
+			"images": {
+                "small": "http://img5.mtime.cn/pi/2018/03/13/142023.83260399_1000X1000.jpg",
+                "large": "http://img5.mtime.cn/pi/2018/03/21/154858.82906901_1000X1000.jpg"
+            },
+            "descript":"影片讲述 20 年后的未来城市中，由于“犬流感”肆虐，政府颁布行政令流放全部狗狗，远离城市的这座垃圾岛就此成为狗狗维系生存的“犬之岛”。当所有人抛弃这些狗狗的时候，一个12岁男孩为寻找自己的爱犬只身闯入“犬之岛”。小男孩与五.."
+		},
+		{
+			"title": "头号玩家",
+			"images": {
+                "small": "http://img5.mtime.cn/pi/2018/03/09/105653.76774920_1000X1000.jpg",
+                "large": "http://img5.mtime.cn/pi/2018/03/14/095015.92002869_1000X1000.jpg"
+            },
+            "descript":"在2045年，现实世界衰退破败，人们沉迷于VR(虚拟现实)游戏“绿洲(OASIS)”的虚幻世界里寻求慰藉。马克·里朗斯饰演的“绿洲”的创始人临终前宣布，将亿万身家全部留给寻获他隐藏的彩蛋的游戏玩家，史上最大规模的寻宝冒险就此展开，由.."
+		},
+		{
+			"title": "21克拉",
+			"images": {
+                "small": "http://img5.mtime.cn/pi/2018/02/09/154013.27421087_1000X1000.jpg",
+                "large": "http://img5.mtime.cn/pi/2018/03/30/104001.31435523_1000X1000.jpg"
+            },
+            "descript":"刘佳音（迪丽热巴 饰）因与富豪男友分手而破产。为了还债，变卖了自己所有的奢侈品。王继伟（郭京飞 饰）天生爱省，为了省钱无所不用其极。两人因为一场剧场意外相遇，在一系列机缘巧合下合租在一个屋檐之下，过起了荒诞爆笑的流浪生活.."
+
+
+		},
+		{
+			"title": "脱单告急",
+			"images": {
+                "small": "http://img5.mtime.cn/pi/2018/03/02/100730.69840854_1000X1000.jpg",
+                "large": "http://img5.mtime.cn/pi/2018/03/27/095752.15193470_1000X1000.jpg"
+            },
+            "descript":"单身四年的气筒哥何晓阳(董子健饰)和校园大姐大关欣(钟楚曦 饰)因一次偶然成为了绯闻情侣。为了摆脱何晓阳，关欣决定帮助他追求女神李舒舒(春夏 饰)。在关欣的指导下，何晓阳拥有了追求李舒舒的完美公式，但是面对真爱，何晓阳却分不清.."
+		}
+
+
+	],
+	"new":[
+		{
+			"title": "湮灭",
+			"image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516914607.jpg"
+		},
+		{
+			"title": "起跑线",
+			"image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2517518428.jpg"
+		},
+		{
+			"title": "冰雪女王3：火与冰",
+			"image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517033932.jpg"
+		},
+		{
+			"title": "红海行动",
+			"image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514119443.jpg"
+		},
+		{
+			"title": "暴裂无声",
+			"image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517333671.jpg"
+		}
+	],
+	"comming_soon":[
+	  {
+		"title": "古城会",
+		"image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2152705016.jpg"
+	  },
+	  {
+		"title": "雪·葬",
+		"image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519425147.jpg"
+	  },
+	  {
+		"title": "后来的我们",
+		"image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519907388.jpg"
+	  },
+	  {
+		"title": "幕后玩家",
+		"image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518645794.jpg"
+	  },
+	  {
+		"title": "玛丽与魔女之花",
+		"image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518746536.jpg"
+	  },
+	  {
+		"title": "战神纪",
+		"image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519726014.jpg"
+	  }
+	],
+  "top":[
+	{
+	  "title": "肖申克的救赎",
+	  "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg"
+	},
+	{
+	  "title": "霸王别姬",
+	  "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.jpg"
+	},
+	{
+	  "title": "这个杀手不太冷",
+	  "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg"
+	},
+	{
+	  "title": "阿甘正传",
+	  "image": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876377.jpg"
+	},
+	{
+	  "title": "美丽人生",
+	  "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510861873.jpg"
+	},
+	{
+	  "title": "千与千寻",
+	  "image": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1606727862.jpg"
+	}
+  ]
+}

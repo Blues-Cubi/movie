@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="en" ng-app="movie" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html lang="en" ng-app="movie" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html lang="en" ng-app="movie" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="movie" class="no-js"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>My AngularJS App</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/normalize.css">
+  <link rel="stylesheet" href="bower_components/html5-boilerplate/dist/css/main.css">
+	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+  <link rel="stylesheet" href="app.css">
+	<link rel="shortcut icon" href="fav.ico">
+  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+<body>
+  <!--<ul class="menu">-->
+    <!--<li><a href="#!/view1">view1</a></li>-->
+    <!--<li><a href="#!/view2">view2</a></li>-->
+  <!--</ul>-->
+  <header id="header">
+	  <div class="container">
+		  <div class="row">
+			  <div class="col-lg-3 col-md-6 col-xs-12">
+				  <a href="index.html">
+					  <div class="logo">
+						  <h1>ONE</h1>
+						  <span>movie</span>
+					  </div>
+				  </a>
+			  </div>
+			  <div class="col-lg-5 col-md-6 col-xs-12 text-center search">
+				  <div class="input-group" ng-controller="SearchController">
+					  <form ng-submit="search()">
+						  <input type="text" class="form-control" placeholder="Search for..." ng-model="input">
+					  </form>
+
+					  <span class="input-group-btn">
+						<button class="btn btn-serach" type="button" ng-click="search()">Go!</button>
+					  </span>
+				  </div><!-- /input-group -->
+			  </div>
+			  <div class="col-lg-4 visible-lg contact">
+				  <i class="icon-mobilephone"></i>
+				  <span>(+000) 123 345 653</span>
+				  <button type="button" class="btn btn-login" data-toggle="modal" data-target="#myModal">LOGIN</button>
+
+				  <!-- Modal -->
+				  <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+					  <div class="modal-dialog" role="document">
+						  <div class="modal-content">
+							  <div class="modal-header">
+								  <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+								  <h4 class="modal-title" id="myModalLabel">Sign In & Sign Up</h4>
+							  </div>
+							  <div class="modal-body">
+								  <label>Login to your account</label>
+								  <input type="text" placeholder="Username">
+								  <input type="password" placeholder="Password">
+								  <input type="submit" value="login">
+							  </div>
+							  <div class="modal-footer">
+								  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+								  <button type="button" class="btn btn-primary">Save changes</button>
+							  </div>
+						  </div>
+					  </div>
+				  </div>
+
+
+			  </div>
+		  </div>
+	  </div>
+	  <nav class="navbar navbar-movie navbar-static-top">
+		  <div class="container">
+			  <div class="navbar-header">
+				  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#movie_toggle_content" aria-expanded="false">
+					  <span class="sr-only">切换菜单</span>
+					  <span class="icon-bar"></span>
+					  <span class="icon-bar"></span>
+					  <span class="icon-bar"></span>
+				  </button>
+			  </div>
+
+			  <div class="collapse navbar-collapse" id="movie_toggle_content">
+				  <ul class="nav navbar-nav">
+					  <!--<li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>-->
+					  <li class="active"><a href="#!/home">HOME</a></li>
+					  <li>
+						  <a href="#!/genres">GENRES<span class="caret"></span></a>
+						  <div class="li-genres">
+							<div class="row">
+								<div class="col-xs-12 col-md-4">
+									<ul>
+										<li><a href="#!/genres/action">Action</a></li>
+										<li><a href="#!/genres/Biography">Biography</a></li>
+										<li><a href="#!/genres/Crime">Crime</a></li>
+										<li><a href="#!/genres/Family">Family</a></li>
+										<li><a href="#!/genres/Horror">Horror</a></li>
+										<li><a href="#!/genres/Romance">Romance</a></li>
+										<li><a href="#!/genres/Spoorts">Spoorts</a></li>
+										<li><a href="#!/genres/War">War</a></li>
+									</ul>
+								</div>
+								<div class="col-xs-12 col-md-4">
+									<ul>
+										<li><a href="#!/genres/Adventure">Adventure</a></li>
+										<li><a href="#!/genres/Comedy">Comedy</a></li>
+										<li><a href="#!/genres/Documentary">Documentary</a></li>
+										<li><a href="#!/genres/Fantasy">Fantasy</a></li>
+										<li><a href="#!/genres/Thriller">Thriller</a></li>
+
+									</ul>
+								</div>
+								<div class="col-xs-12 col-md-4">
+									<ul>
+										<li><a href="#!/genres/Animation">Animation</a></li>
+										<li><a href="#!/genres/Costume">Costume</a></li>
+										<li><a href="#!/genres/Drama">Drama</a></li>
+										<li><a href="#!/genres/History">History</a></li>
+										<li><a href="#!/genres/Musical">Musical</a></li>
+										<li><a href="#!/genres/Psychological">Psychological</a></li>
+
+									</ul>
+								</div>
+
+							</div>
+						  </div>
+					  </li>
+					  <li><a href="#!/movie_list/in_theaters">IN THEATERS</a></li>
+					  <li><a href="#!/movie_list/coming_soon">COMMING SOON</a></li>
+					  <li><a href="#!/movie_list/top250">TOP250</a></li>
+					  <li><a href="#!/list">A-Z LIST</a></li>
+					  <li><a href="#!/list">ABOUT ME</a></li>
+				  </ul>
+
+			  </div>
+
+
+		  </div>
+	  </nav>
+  </header>
+
+  <!--&lt;!&ndash;[if lt IE 7]>-->
+      <!--<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>-->
+  <!--<![endif]&ndash;&gt;-->
+
+  <div ng-view>
+  </div>
+
+  <footer  id="footer">
+	  <div class="container">
+		  <div class="row up">
+			  <div class="col-xs-12 col-sm-6">
+				  <label for="email">SUBSCRIBE TO US</label>
+				  <form class="form-inline">
+					  <div class="form-group">
+						  <input type="email" class="form-control" id="email" placeholder="Your email">
+					  </div>
+					  <button type="submit" class="btn btn-default">Send</button>
+				  </form>
+			  </div>
+			  <div class="col-xs-12 col-sm-6 ">
+				  <div id="lp">
+					  <a href="index.html">
+						  <div class="logo">
+							  <h1>ONE</h1>
+							  <span>movie</span>
+						  </div>
+					  </a>
+
+				  </div>
+
+			  </div>
+		  </div>
+
+		  <div class="row down">
+			  <div class="col-xs-12 col-sm-6">
+				  <p class="copyright"> Copyright &copy; 2016.Company name All rights reserved.</p>
+			  </div>
+			  <div class="col-xs-12 col-sm-6">
+				  <ul id="links">
+					  <li><a href="#">MOVIES</a></li>
+					  <li><a href="#">FAQ</a></li>
+					  <li><a href="#">ACTION</a></li>
+					  <li><a href="#">ADVENTURE</a></li>
+					  <li><a href="#">COMEDY</a></li>
+					  <li><a href="#">ICONS</a></li>
+					  <li><a href="#">CONTACT US</a></li>
+				  </ul>
+			  </div>
+		  </div>
+	  </div>
+  </footer>
+
+  <!--左下角社交平台-->
+  <secction id="social" class="visible-lg visible-md">
+	  <ul>
+		  <li ><a href=""><p>QQ</p><i class="icon-qq"></i></a></li>
+		  <li ><a href=""><p>We Chat</p><i class="icon-weixin"></i></a></li>
+		  <li ><a href=""><p>Git</p><i class="icon-git"></i></a></li>
+		  <li ><a href=""><p>Microblog</p><i class="icon-weibo"></i></a></li>
+	  </ul>
+  </secction>
+  <!--有下家返回顶部-->
+  <section id="to-top">
+	  <a></a>
+  </section>
+
+  <!--<div>Angular seed app: v<span app-version></span></div>-->
+
+  <!-- In production use:
+  <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+  -->
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="bower_components/angular-route/angular-route.js"></script>
+  <script src="bower_components/jquery/dist/jquery.js"></script>
+  <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+  <script src="app.js"></script>
+  <script src="components/http.js"></script>
+  <!--<script src="in_theaters/controller.js"></script>-->
+  <!--<script src="comming_soon/controller.js"></script>-->
+  <!--<script src="top250/controller.js"></script>-->
+  <script src="movie_list/controller.js"></script>
+  <script src="home/controller.js"></script>
+  <script src="genres/controller.js"></script>
+  <script src="list/controller.js"></script>
+  <script src="movie_detial/controller.js"></script>
+</body>
+</html>
